@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Local environment files
+.env
+.env.*
+
+# Azure / Functions local settings
+local.settings.json
+
+# Node
+node_modules/
